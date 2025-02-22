@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "django-serializers"
 version = "0.1.0"
-description = ""
-authors = ["hsanfilippo <henrique.sanfilippo@gmail.com>"]
+description = "Um projeto Django"
+authors = ["Carlos Gabriel <carlosgabriel060178@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
